@@ -1,12 +1,10 @@
 # Calculator Notification
 
-[![Get it on Google Play](http://www.tananaev.com/badges/google-play.svg)](https://play.google.com/store/apps/details?id=com.tananaev.currency)
 
-Currency converted application for Android.
 
 ## Contacts
 
-Author - Anton Tananaev ([anton.tananaev@gmail.com](mailto:anton.tananaev@gmail.com))
+Author - Satyam Swet ([satyam3918@gmail.com](mailto:satyam3918@gmail.com))
 
 ## License
 
